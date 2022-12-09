@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\ACER NITRP-5\Desktop\EclipseJava\object-orinted\.metadata\.plugins\org.eclipse.jdt.core
+1695662857.index
+1997018195.index
